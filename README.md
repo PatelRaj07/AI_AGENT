@@ -3,7 +3,7 @@
 This application implements a highly advanced AI agent that progressively learns your Rock Paper Scissors playing patterns to provide an increasingly challenging gameplay experience. The AI combines multiple prediction strategies and features a clean, intuitive graphical interface with real-time visualization of the AI's prediction probabilities.
 
 **Key Features:**
-**Advanced AI Implementation**
+**Advanced AI Implementation**:
 
 Deep Learning: LSTM neural network to recognize complex temporal patterns in player behavior
 Reinforcement Learning: Q-learning with experience replay for optimizing decision-making
@@ -19,13 +19,13 @@ Comprehensive game history tracking
 Detailed statistics and performance visualizations
 Save/load functionality to preserve AI learning progress
 
-**Analytics and Insights:**
+**Analytics and Insights:**:
 Pattern analysis that reveals your playing tendencies
 Performance visualizations showing win rates and strategy effectiveness
 Detailed breakdowns of gameplay statistics
 AI commentary on observed player patterns
 
-**Technologies Used**
+**Technologies Used**:
 Python
 PyTorch (neural networks)
 NumPy (statistical modeling)
